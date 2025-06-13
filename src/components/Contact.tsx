@@ -47,7 +47,7 @@ const Contact = () => {
             transition={{ delay: 0.3, duration: 0.8 }}
             className="space-y-8"
           >
-            <h2 className="text-3xl font-bold text-white mb-8">Let's Connect</h2>
+            <h2 className="text-3xl font-bold text-white mb-8">Let's Connect :)</h2>
             
             <div className="space-y-6">
               {contactInfo.map((info, index) => {
