@@ -234,12 +234,12 @@ Since then I've used this website as a playground for experimenting with new tec
               <div className="bg-gray-900/50 backdrop-blur-sm rounded-3xl p-8 border border-gray-800">
                 <div className="grid grid-cols-2 gap-6">
                   <div className="text-center">
-                    <div className="text-3xl font-bold text-white">5</div>
+                    <div className="text-3xl font-bold text-white">15</div>
                     <div className="text-gray-500">Projects</div>
                   </div>
           
                   <div className="text-center">
-                    <div className="text-3xl font-bold text-white">4+</div>
+                    <div className="text-3xl font-bold text-white">5</div>
                     <div className="text-gray-500">Technologies</div>
                   </div>
           
