@@ -12,7 +12,7 @@ const Contact = () => {
 
   const contactInfo = [
     { icon: Mail, label: 'Email', value: 'luckyizdone@gmail.com' },
-    { icon: Phone, label: 'Phone', value: '+91 9392493291' },
+    { icon: Phone, label: 'Call me', value: '+91 9392493291' },
     { icon: MapPin, label: 'Location', value: 'Hyderabad, Telangana, India' }
   ];
 
@@ -35,7 +35,7 @@ const Contact = () => {
             Get In <span className="text-gray-500">Touch</span>
           </h1>
           <p className="text-xl text-gray-400 max-w-3xl leading-relaxed">
-            Got a project in mind or just in the mood for some biryani? Either way, I'd love to hear from you. Let's make something awesome together.
+            Get in touch
           </p>
         </motion.div>
 
