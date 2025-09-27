@@ -49,7 +49,7 @@ const Projects = () => {
             My <span className="text-gray-500">Projects</span>
           </h1>
           <p className="text-xl text-gray-400 max-w-3xl leading-relaxed">
-            Here are some of my recent projects :)
+            Here are some of my recent projects, you can find all my Projects in my Github :)
           </p>
         </motion.div>
 
